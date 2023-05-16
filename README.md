@@ -6,11 +6,11 @@
 <p>meu nome é <strong>Rodrigo</strong>, td bem?<br> </p>
 <p> Estou cursando a 15 edição do Programa Start Web Full Stack da Growdev.</p>
 
-<P>Estou estudando esses módolos no momento</P>
+<P>Estou estudando esses módolos no momento:</P>
     
 
 <p align="left">
-  💻 Linguagens: <strong>HTML CSS e Javascript.</strong>
+  💻 <strong>HTML CSS e Javascript.</strong>
 </p>
 
 <p align="left">
