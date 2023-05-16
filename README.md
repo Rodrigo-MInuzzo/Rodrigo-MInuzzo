@@ -14,10 +14,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code.</strong>
-</p>
-
-<p align="left">
   ✅ Estou Aqui ⤵️
 </p>
 
